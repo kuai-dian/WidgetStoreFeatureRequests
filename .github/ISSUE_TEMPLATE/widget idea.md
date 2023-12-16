@@ -1,3 +1,10 @@
+---
+name: Widget Idea
+about: Suggest a widget idea
+title: '[Widget Idea] '
+labels: widget idea
+---
+
 ### Widget Idea
 
 **Description:**
