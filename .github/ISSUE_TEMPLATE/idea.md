@@ -1,3 +1,10 @@
+---
+name: Idea
+about: Suggest an idea
+title: '[Idea] '
+labels: idea
+---
+
 ### Idea
 
 **Description:**
@@ -10,7 +17,7 @@ Explain the problem or limitation that the proposed feature aims to address.
 Describe your proposed solution or idea for the new feature.
 
 **Alternatives:**
-If applicable, provide any alternative solutions or featuresyou have considered.
+If applicable, provide any alternative solutions or features you have considered.
 
 **Additional Information:**
 Add any additional information or context about your feature request.
